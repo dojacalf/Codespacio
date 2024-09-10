@@ -1,0 +1,51 @@
+body {
+    margin :0;
+    
+}
+h1{
+    text-align: center;
+}
+img{
+    text-align: center;
+}
+.cabesa {
+    background-color:aquamarine;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    font-size: 50px;
+    margin: 0;
+}
+.huno{
+    background-color:bisque;
+    height: 80px;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    margin: 0;
+}
+.hdos{
+    background-color:darkcyan;
+    height: 80px;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+margin: 0;
+}
+img{
+    margin: 0;
+}
+.htres{
+    background-color:coral;
+    height: 80px;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    margin: 0;
+}
+.hola{
+    width:"500px";
+     height:"500px";
+    text-align: center;
+    margin: 0;
+}
